@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: 190-SpringBootApplicationPRODUCT_INVOICE_MANAGEMEN
+ T_SYSTEM-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
